@@ -1,4 +1,4 @@
-movie_file = '../input/movie_user.txt'
+movie_file = '../input/movie_user.mat'
 
 # total stats
 sum_rating = 0
